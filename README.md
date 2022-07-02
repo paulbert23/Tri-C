@@ -17,4 +17,4 @@ Here is a list, and description of my files.
 
 *MyPage.png*<br>Is a screenshot of what MyFirstPage.html looks like in a browser.
 
-*MyFirstPage.html<br>Is the HTML file I created in notepad which discusses building a router to run pfSense.
+*MyFirstPage.html*<br>Is the HTML file I created in notepad which discusses building a router to run pfSense.
