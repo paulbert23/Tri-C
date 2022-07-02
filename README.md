@@ -14,3 +14,7 @@ Here is a list, and description of my files.
 *NetworkDesign.jpeg*<br>Is a sample digram of a network design for a house.  This diagram demonstrates the star topology, with all of the hard wired hosts and the wireless access point all connecting directly to one switch.  This network diagram includes a modem, firewall, router, switch, wireless access point, computers, printer, tv, cellphone, and laptop.   
 
 *MyHTML.png*<br>Is a sample of a basic HTML code that I created using the W3School's Tryit Editor v3.7.
+
+*MyPage.png*<br>Is a screenshot of what MyFirstPage.html looks like in a browser.
+
+*MyFirstPage.html<br>Is the HTML file I created in notepad which discusses building a router to run pfSense.
